@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "update": "node update.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "prettier": "^2.0.5",
+    "shelljs": "^0.8.4"
+  }
+}
